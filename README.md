@@ -1,5 +1,4 @@
-<img width="1328" height="1002" alt="Screenshot 2026-05-21 092439" src="https://github.com/user-attachments/assets/55746aaa-4c32-4985-a982-3c05b1af5b0d" /># creating-a-backdoor-with-SET
-creating a backdoor with SET - Ethical Hacking Techniques course
+# creating a backdoor with SET - Ethical Hacking Techniques course
 
 # AIM:
 To Create a backdoor with Social Engineering Toolkit (SET)
